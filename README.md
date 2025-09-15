@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://harox.top](https://harox.top)
+- 👨‍💻 All of my projects are available at [https://harox.dev(https://harox.dev)
 
 - 💬 Ask me about **node.js, react, javascript**
 
-- 📫 How to reach me **harox@haroxsec.net**
+- 📫 How to reach me **github@haroxsec.net**
 
-- 📄 Know about my experiences [https://harox.top/cur](https://harox.top/cur)
+- 📄 Know about my experiences [https://harox.dev/cur](https://harox.dev/cur)
 
 - ⚡ Fun fact **Best Part Of The Journey Is: It Ends**
 
