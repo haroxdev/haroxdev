@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://harox.dev(https://harox.dev)
+- 👨‍💻 All of my projects are available at [https://harox.dev](https://harox.dev)
 
 - 💬 Ask me about **node.js, react, javascript**
 
